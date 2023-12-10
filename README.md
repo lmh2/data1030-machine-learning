@@ -4,6 +4,9 @@ Based on Kaggle's 'Solar Radiation Prediction' dataset, https://www.kaggle.com/d
 
 
 By Leo Major
+/
 Brown University DATA1030 Machine Learning
+/
 Fall 2023 Final Project
+/
 Data Science Institute
